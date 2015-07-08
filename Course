@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="BIG5">
+<title>jQueryTemplate</title>
+<script src="js/jquery-2.1.4.min.js"></script>
+<script>
+	$(function() {
+		//程式寫此
+
+	});
+</script>
+</head>
+<body>
+</body>
+</html>
